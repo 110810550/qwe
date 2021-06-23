@@ -10,7 +10,7 @@
 
 # [原始程式](https://github.com/110810550/qwe/blob/main/22.txt)
 執行結果 ![image](https://github.com/110810550/qwe/blob/main/5.png)
-#改寫
+# 改寫
 
 ```
 #include <iostream>
@@ -116,6 +116,6 @@ int main()
 * [程式](https://blog.csdn.net/OrthocenterChocolate/article/details/38665937)
 * [string](https://openhome.cc/Gossip/CppGossip/string2.html)
 * [g++教學](https://blog.gtwang.org/programming/gcc-comipler-basic-tutorial-examples/)
-* 
+
 
 
