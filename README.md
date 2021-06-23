@@ -109,7 +109,13 @@ int main()
 
 
 ```
-#結果
-![image]
+# 結果
+![image](https://github.com/110810550/qwe/blob/main/3.png)
+
+## 資料
+* [程式](https://blog.csdn.net/OrthocenterChocolate/article/details/38665937)
+* [string](https://openhome.cc/Gossip/CppGossip/string2.html)
+* [g++教學](https://blog.gtwang.org/programming/gcc-comipler-basic-tutorial-examples/)
+* 
 
 
