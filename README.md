@@ -1,4 +1,4 @@
-# 期末功課
+# 期末功課 爬蟲
 ## 版權
 1.版权声明：本文为CSDN博主「Kenney_Qin」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/OrthocenterChocolate/article/details/38665937
@@ -111,6 +111,8 @@ int main()
 ```
 # 結果
 ![image](https://github.com/110810550/qwe/blob/main/3.png)
+# 未來期望
+* 可把爬到的下載下來
 
 ## 資料
 * [程式](https://blog.csdn.net/OrthocenterChocolate/article/details/38665937)
