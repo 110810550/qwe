@@ -8,4 +8,5 @@
 * 用c++來使用
 
 
-#[原始程式](https://github.com/110810550/qwe/blob/main/22.txt)
+# [原始程式](https://github.com/110810550/qwe/blob/main/22.txt)
+![image]()
