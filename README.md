@@ -9,4 +9,4 @@
 
 
 # [原始程式](https://github.com/110810550/qwe/blob/main/22.txt)
-![image]()
+執行結果 ![image](https://github.com/110810550/qwe/blob/main/5.png)
